@@ -1,2 +1,2 @@
 # md-handbook.acorns.com
-TAKEOVER BY WHOAI
+TAKEOVER BY WHOAMI
